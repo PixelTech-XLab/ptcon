@@ -1,0 +1,67 @@
+[
+  {
+    "id": "u1",
+    "name": "弹幕姬小粉",
+    "passwordHash": "d51089558369f5c6efb790a816e5f66da2eb2c88471deb45c04feb5cf7700f02d27b44e6f51c1c2f7c6713bb761c496417d668b2f7f5fbc68b3f8844ab4d4e57",
+    "salt": "ptcon-seed-salt",
+    "avatar": "/media/avatars/u1.jpg?t=1789738606147",
+    "bio": "热爱生活的UP主，每天更新治愈系内容～",
+    "coins": 99,
+    "baseFans": 102400,
+    "createdAt": 1787146449972,
+    "role": "user",
+    "banned": true
+  },
+  {
+    "id": "u2",
+    "name": "游戏老王",
+    "passwordHash": "d51089558369f5c6efb790a816e5f66da2eb2c88471deb45c04feb5cf7700f02d27b44e6f51c1c2f7c6713bb761c496417d668b2f7f5fbc68b3f8844ab4d4e57",
+    "salt": "ptcon-seed-salt",
+    "avatar": "/media/seed/avatars/av2.jpg",
+    "bio": "车与游戏，不可辜负。商务合作请私信。",
+    "coins": 99,
+    "baseFans": 68000,
+    "createdAt": 1787146449972,
+    "role": "user",
+    "banned": true
+  },
+  {
+    "id": "u3",
+    "name": "科技阿伟",
+    "passwordHash": "d51089558369f5c6efb790a816e5f66da2eb2c88471deb45c04feb5cf7700f02d27b44e6f51c1c2f7c6713bb761c496417d668b2f7f5fbc68b3f8844ab4d4e57",
+    "salt": "ptcon-seed-salt",
+    "avatar": "/media/seed/avatars/av3.jpg",
+    "bio": "数码区萌新UP，带你看新鲜科技玩意儿。",
+    "coins": 99,
+    "baseFans": 45600,
+    "createdAt": 1787146449972,
+    "role": "user",
+    "banned": true
+  },
+  {
+    "id": "u4",
+    "name": "摸鱼音乐人",
+    "passwordHash": "d51089558369f5c6efb790a816e5f66da2eb2c88471deb45c04feb5cf7700f02d27b44e6f51c1c2f7c6713bb761c496417d668b2f7f5fbc68b3f8844ab4d4e57",
+    "salt": "ptcon-seed-salt",
+    "avatar": "/media/seed/avatars/av4.jpg",
+    "bio": "做一些奇奇怪怪的音乐和视频。",
+    "coins": 99,
+    "baseFans": 39200,
+    "createdAt": 1787146449972,
+    "role": "user",
+    "banned": true
+  },
+  {
+    "id": "admin",
+    "name": "admin",
+    "role": "admin",
+    "banned": false,
+    "passwordHash": "e8fadc9bab83c52974fc70bf53fe74171fa665cd9dec76743eeaa5c3b3800a59e662db498a719d18fdc551b5883584b9f1af32394bfd9469d094ad74d0c9bff0",
+    "salt": "ptcon-seed-salt",
+    "avatar": "/media/seed/avatars/av3.jpg",
+    "bio": "平台管理员",
+    "coins": 99,
+    "baseFans": 0,
+    "createdAt": 1789771213896
+  }
+]
